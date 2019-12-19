@@ -1,0 +1,43 @@
+{
+    "name": "Collins Dictionary",
+    "description": "Online Dictionary and Thesaurus from Collins with over 1 million words: Definitions, synonyms, pronunciations, translations, origin and examples.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1716-collins-dictionary.jpg",
+    "tags": [
+        "api provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/collins-dictionary\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Collins Dictionary",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1716-collins-dictionary.jpg",
+            "humanURL": "http:\/\/www.collinsdictionary.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": []
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/collins"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.collinsdictionary.com\/api\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/collinsdict"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.collinsdictionary.com"
+        }
+    ]
+}
